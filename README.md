@@ -7,10 +7,18 @@ Description:
 - Webscraping weahter data using API
 - Preprocessing Data
 - Analyze Data
-- Save Data to Local Database
   
 Language : Python
 
 You can see the script with .ipynb form in [here]().
 
 **Hope this helps!👍**
+
+### Contributing Group Members
+|Name     | 
+|---------|
+|Latifa Aulia Esmananda|
+|Annisa Zahra|
+|Bintang Anugrah Alam|
+|Cindy Fara Nabila|
+|Salsabilla|
