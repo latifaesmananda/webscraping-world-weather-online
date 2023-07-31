@@ -1,1 +1,16 @@
-# webscraping-world-weather-online
+# Webscraping World Weather Online Data
+
+This repository is project about **Webscraping World Weather Online Data in Jakarta from 9-13 April 2023**.
+
+Description:
+- Data taken from [World Weather Online](https://www.worldweatheronline.com/).
+- Webscraping weahter data using API
+- Preprocessing Data
+- Analyze Data
+- Save Data to Local Database
+  
+Language : Python
+
+You can see the script with .ipynb form in [here]().
+
+**Hope this helps!👍**
