@@ -1,4 +1,4 @@
-# Webscraping World Weather Online Data
+# webscraping-world-weather-online
 
 This repository is project about **Webscraping World Weather Online Data in Jakarta from 9-13 April 2023**.
 
@@ -14,7 +14,7 @@ You can see the script with .ipynb form in [here]().
 
 **Hope this helps!👍**
 
-### Contributing Group Members
+### Contributing Group Members:
 |Name     | 
 |---------|
 |Latifa Aulia Esmananda|
