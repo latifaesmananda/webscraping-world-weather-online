@@ -4,7 +4,7 @@ This repository is project about **Webscraping World Weather Online Data in Jaka
 
 Description:
 - Data taken from [World Weather Online](https://www.worldweatheronline.com/).
-- Webscraping weahter data using API
+- Webscraping weather data using API
 - Preprocessing Data
 - Analyze Data
   
